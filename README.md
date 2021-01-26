@@ -1,2 +1,2 @@
-# Emre-Akanak
-Data Scientist &amp; Economist 
+# EmreAkanak
+Data Scientist &; Economist 
